@@ -141,3 +141,7 @@ target/
 # Ignore grapple specific stuff
 gruim/custommodules/list.json
 grapi/controllers/index.ts
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
